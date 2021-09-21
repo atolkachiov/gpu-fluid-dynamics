@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+      "*.ipp": "cpp",
+      "numeric": "cpp"
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"]
+  }

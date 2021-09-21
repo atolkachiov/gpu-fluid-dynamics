@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../gpu.js"
+		},
+		{
+			"path": "../../../2021/Euler fluid - complet simple"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.ipp": "cpp",
+			"numeric": "cpp"
+		}
+	}
+}

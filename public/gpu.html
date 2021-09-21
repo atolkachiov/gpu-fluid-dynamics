@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Slow Fade</title>
+</head>
+<body>
+  <h1>Slow Fade</h1>
+  <div>
+    <canvas id="c"></canvas>
+    <div id="fps"></div>
+  </div>
+</body>
+<script src="../node_modules/gpu.js/dist/gpu-browser.js"></script>
+<script src="./fps.js"></script>
+<script src="./core.js"></script>
+<script>
+    main(
+      document.getElementById('c'),
+      document.getElementById('fps')
+    );
+</script>
+</html>
